@@ -1,4 +1,5 @@
 # mobile-template
+vue3+vant3+vue cli+axios构建的项目模板
 
 ## Project setup
 ```
@@ -20,5 +21,8 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### TODO
+- [x] 引入vant3组件库
+- [x] vant3组件按需引入
+- [x] rem屏幕适配
+- [x] axios网络请求封装
